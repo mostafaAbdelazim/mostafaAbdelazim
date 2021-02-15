@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mostafaAbdelazim
-- 👀 I’m interested in Mobile Development using Java and kotlin for native android and Flutter & Dart for hybrid apps
+- 👀 I’m interested in Mobile Development using Java and Kotlin for native android and Flutter & Dart for hybrid apps
 - 📫 You can reach me via mzeemadev@gmail.com
 
 <!---
